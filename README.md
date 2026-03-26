@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Mateo Noba 👋
 
-<!--
-**mateo-noba/mateo-noba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Development Student  
+Passionate about programming and technology  
 
-Here are some ideas to get you started:
+## Technologies
+- HTML / CSS
+- JavaScript
+- C++
+- C#
+- Python
+- SQL & NoSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+- Visual Studio Code
+- Visual Studio Community
+- Unity
+- MongoDB
+
+## About Me
+I am a software development student with experience in building academic and personal projects. I have worked with different programming languages and databases, and I am interested in continuing to grow in the IT field.
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/mateo-benjamin-noba-fioriti-9b0867345/
+- Email: mateob.nobafioriti@gmail.com
